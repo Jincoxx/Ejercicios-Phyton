@@ -2,7 +2,7 @@ Desde la consola de python almacena la cadena “Hola mundo!” en una variable 
 Tienes que subir capturas de pantalla en una carpeta comprimida zip.
 
 Ejercicio Print de Pantalla:
-Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug 1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Feb 27 2023, 15:30:49) [MSC v.1932 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> miTexto = "Hola Mundo"
 >>> print(miTexto)
