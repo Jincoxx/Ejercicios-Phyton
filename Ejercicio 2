@@ -1,0 +1,13 @@
+Modifica la variable del anterior ejercicio en la consola de python y después muestrala por consola para ver la modificación de la variable.
+Tienes que subir capturas de pantalla en una carpeta comprimida zip.
+
+Ejercicio Print de Pantalla:
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Feb 27 2023, 16:28:49) [MSC v.1932 64 bit (AMD64)]
+Type "help", "copyright", "credits" or "License" for more information
+>>> miText = "Hola Mundo"
+>>> print(miText)
+Hola Mundo
+>>> miText = "Chau Mundo ;)"
+>>> pint(miText)
+Chau Mundo ;)
+>>>
